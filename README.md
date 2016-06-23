@@ -1,0 +1,2 @@
+# qrcode_chrome_extension
+生成当前页面URL二维码的Chrome插件

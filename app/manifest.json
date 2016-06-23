@@ -1,0 +1,14 @@
+{
+  "manifest_version":2,
+  "name": "QRCode",
+  "version": "1.0",
+  "description": "生成当前页面的二维码，可用手机进行扫描访问",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "QRCode",
+    "default_popup": "qrcode.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
